@@ -1,5 +1,6 @@
 # Exercise1
 c++ Basix exercise 
+//Area Exercise
 #include <iostream>
 #include <string>
 using namespace std;
@@ -14,3 +15,8 @@ int main()
     cout << "The temperature in Celcius is: " << y << endl;
 }
 
+
+ 
+ 
+ 
+ //Exercise for Temperature
